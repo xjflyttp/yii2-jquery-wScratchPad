@@ -1,0 +1,21 @@
+{
+    "name": "xj/yii2-jquery-wScratchPad",
+    "description": "yii2-jquery-wScratchPad",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "bower-asset/wScratchPad": "~2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\wscratchpad\\": ""
+        }
+    }
+}
