@@ -1,5 +1,5 @@
 {
-    "name": "xj/yii2-jquery-wScratchPad",
+    "name": "xj/yii2-jquery-wscratchpad",
     "description": "yii2-jquery-wScratchPad",
     "license": "BSD-3-Clause",
     "authors": [
@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "bower-asset/wScratchPad": "~2.1"
+        "bower-asset/wscratchpad": "~2.1"
     },
     "autoload": {
         "psr-4": {

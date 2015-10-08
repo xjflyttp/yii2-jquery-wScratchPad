@@ -10,7 +10,7 @@ use yii\web\AssetBundle;
 class WscratchpadAsset extends AssetBundle
 {
 
-    public $sourcePath = '@bower/wScratchPad/src';
+    public $sourcePath = '@bower/wscratchpad/src';
     public $basePath = '@webroot/assets';
     public $js = ['wScratchPad.js'];
     public $depends = [
