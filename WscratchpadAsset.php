@@ -11,7 +11,6 @@ class WscratchpadAsset extends AssetBundle
 {
 
     public $sourcePath = '@bower/wscratchpad/src';
-    public $basePath = '@webroot/assets';
     public $js = ['wScratchPad.js'];
     public $depends = [
         'yii\web\JqueryAsset',
